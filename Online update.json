@@ -1,7 +1,15 @@
 {
   "version": 7,
   "title": "New Update Available",
-  "subtitle": "Update Your Application",
-  "closeButton": true,
+  "subtitle": "1. ✅ Improved app performance and speed\n 
+🔒 Enhanced security for better data protection\n
+🎨 New and cleaner user interface\n
+🧩 Bug fixes and crash optimizations\n
+🌙 Added dark mode support\n
+🌐 Improved internet connectivity handling\n
+📤 Faster file upload and download performance\n
+🛠️ Optimized resource usage for low-end devices\n
+📱 Better support for latest Android versions"",
+  "closeButton": false,
   "link": "https://t.me/Toxice_Ox"
 }
