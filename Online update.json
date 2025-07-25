@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "title": "New Update Available",
+  "title": "No Need Update",
   "subtitle": "1. ✅ Improved app performance and speed\n 
 🔒 Enhanced security for better data protection\n
 🎨 New and cleaner user interface\n
@@ -10,6 +10,9 @@
 📤 Faster file upload and download performance\n
 🛠️ Optimized resource usage for low-end devices\n
 📱 Better support for latest Android versions",
+
+
+
   "closeButton": true,
   "link": "https://t.me/Toxice_Ox"
 
